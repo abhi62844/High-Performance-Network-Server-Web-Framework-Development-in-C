@@ -1,4 +1,4 @@
-first of all add cs744_4c folder to the examples folder of libhttp-1.8
+first of all add this folder to the examples folder of libhttp-1.8
 then follow below steps
 flask.c file included civetweb.h header file.
 
